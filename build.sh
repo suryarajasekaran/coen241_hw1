@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker build -t container_lamp:latest .  
+docker build -t coen241_hw1:latest .  
