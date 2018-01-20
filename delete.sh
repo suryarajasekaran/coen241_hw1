@@ -1,3 +1,3 @@
 #!/bin/sh
 
-docker stop $(docker ps -a -q --filter name="container_lamp") && docker rm $(docker ps -a -q --filter name="container_lamp")
+docker stop $(docker ps -a -q --filter name="coen241_hw1") && docker rm $(docker ps -a -q --filter name="coen241_hw1")
